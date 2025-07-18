@@ -24,15 +24,22 @@ const config = {
   // // Set the /<baseUrl>/ pathname under which your site is served
   // // For GitHub pages deployment, it is often '/<projectName>/'
 
-  baseUrl: '/',
-  url: 'https://cometa-dani.github.io',        // 👈 Tu usuario de GitHub Pages
-  // baseUrl: '/cometa-vault/',                   // 👈 Nombre del repo
+  // baseUrl: '/',
+  // url: 'https://cometa-dani.github.io',        // 👈 Tu usuario de GitHub Pages
+  // // baseUrl: '/cometa-vault/',                   // 👈 Nombre del repo
 
-  organizationName: 'cometa-dani.github.io',             // 👈 Usuario de GitHub
-  projectName: 'cometa-vault',                 // 👈 Nombre del repo
+  // organizationName: 'cometa-dani.github.io',             // 👈 Usuario de GitHub
+  // projectName: 'cometa-vault',                 // 👈 Nombre del repo
 
-  deploymentBranch: 'gh-pages',                // 👈 Rama donde se hará deploy
-  trailingSlash: false,                        // 👈 Sin slash al final de URLs
+  // deploymentBranch: 'gh-pages',                // 👈 Rama donde se hará deploy
+  // trailingSlash: false,                        // 👈 Sin slash al final de URLs
+
+  url: 'https://cometa-dani.github.io',
+  baseUrl: '/cometa-vault/',
+  organizationName: 'cometa-dani',
+  projectName: 'cometa-vault',
+  deploymentBranch: 'gh-pages',
+  trailingSlash: false,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
