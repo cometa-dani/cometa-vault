@@ -3,7 +3,7 @@
 
 **principio unificante dominante:**
 
-> Relaciones autenticas, profundas y significativas
+> #### _Relaciones autenticas, profundas y significativas_
 
 #### Diferencias frente a otras apps:
 
