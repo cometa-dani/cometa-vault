@@ -20,15 +20,25 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
+  // url: 'https://cometa-vault.github.io',
+  // // Set the /<baseUrl>/ pathname under which your site is served
+  // // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
+
+  url: 'https://cometa-dani.github.io',        // 👈 Tu usuario de GitHub Pages
+  // baseUrl: '/cometa-vault/',                   // 👈 Nombre del repo
+
+  organizationName: 'cometa-dani.github.io',             // 👈 Usuario de GitHub
+  projectName: 'cometa-vault',                 // 👈 Nombre del repo
+
+  deploymentBranch: 'gh-pages',                // 👈 Rama donde se hará deploy
+  trailingSlash: false,                        // 👈 Sin slash al final de URLs
+
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  // organizationName: 'facebook', // Usually your GitHub org/user name.
+  // projectName: 'docusaurus', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
