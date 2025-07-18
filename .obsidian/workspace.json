@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nucleo/sistema_desbloqueo_de_perfil/propuesta 1.md",
+                "file": "nucleo/conectar_sistemas/por qué conectar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "propuesta 1"
+              "title": "por qué conectar"
             }
           }
         ]
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -168,28 +169,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c762cb0c9a605604",
+  "active": "4179d73f745d58bd",
   "lastOpenFiles": [
-    "nucleo/conectar_sistemas/propuesta 1 - ui-ux.md",
-    "nucleo/sistema_desbloqueo_de_perfil/propuesta 1.md",
-    "nucleo/sistema_desbloqueo_de_perfil",
-    "nucleo/conectar_sistemas/propuesta 2 - alto nivel.md",
-    "nucleo/conectar_sistemas/por qué conectar.md",
-    "nucleo/sistema_de_ecos_simbolicos/4. Sistema de ecos simbolicos.md",
-    "nucleo/conectar_sistemas",
-    "nucleo/1. PITCH ESTRATÉGICO.md",
-    "nucleo/sistema_de_amistad/2. Analisis del sistema.md",
-    "nucleo/sistema_de_amistad/1. Sistema de Amistad.md",
-    "nucleo/2. PUD.md",
-    "nucleo/sistema_de_ecos_simbolicos",
-    "nucleo/sistema_de_amistad",
-    "Welcome.md",
     "nucleo/chats/chat 1.md",
-    "nucleo/chats",
-    "architectura/1. chat.md",
-    "diseño",
-    "diario",
-    "architectura",
-    "nucleo"
+    "nucleo/1. PITCH ESTRATÉGICO.md",
+    "website/package-lock.json",
+    "website/node_modules/postcss-nesting/node_modules/@csstools/selector-resolve-nested/README.md",
+    "website/node_modules/postcss-nesting/node_modules/@csstools/selector-resolve-nested/LICENSE.md",
+    "website/node_modules/postcss-nesting/node_modules/@csstools/selector-resolve-nested/package.json",
+    "website/node_modules/postcss-nesting/node_modules/@csstools/selector-resolve-nested/CHANGELOG.md",
+    "website/node_modules/postcss-nesting/node_modules/@csstools/selector-resolve-nested/dist/index.mjs",
+    "website/node_modules/postcss-nesting/node_modules/@csstools/selector-resolve-nested/dist/index.d.ts",
+    "website/node_modules/postcss-nesting/node_modules/@csstools/selector-resolve-nested/dist/index.cjs",
+    "website/node_modules/postcss-nesting/node_modules/@csstools/selector-resolve-nested/dist",
+    "website/node_modules/@docusaurus/core/package.json",
+    "website/node_modules/@docusaurus/core/README.md",
+    "website/node_modules/@docusaurus/core/bin/docusaurus.mjs",
+    "website/node_modules/@docusaurus/core/bin/beforeCli.mjs",
+    "website/node_modules/@docusaurus/core/bin",
+    "website/node_modules/@docusaurus/babel/README.md",
+    "website/node_modules/@docusaurus/mdx-loader/README.md",
+    "website/node_modules/@docusaurus/mdx-loader/src/remark/admonitions/README.md",
+    "website/node_modules/@docusaurus/utils-validation/README.md",
+    "website/node_modules/@docusaurus/preset-classic/README.md",
+    "website/node_modules/@docusaurus/module-type-aliases/README.md",
+    "website/node_modules/@docusaurus/bundler/README.md",
+    "website/node_modules/sitemap/node_modules/@types/node/README.md",
+    "website/node_modules/html-webpack-plugin/node_modules/commander/Readme.md",
+    "website/node_modules/serve-handler/node_modules/path-to-regexp/Readme.md",
+    "website/node_modules/webpack-bundle-analyzer/node_modules/commander/Readme.md",
+    "website/node_modules/webpack-bundle-analyzer/node_modules/commander/CHANGELOG.md",
+    "website/node_modules/html-webpack-plugin/node_modules/html-minifier-terser/README.md",
+    "website/node_modules/update-notifier/node_modules/boxen/readme.md",
+    "website/node_modules/react-loadable/README.md",
+    "website/node_modules/update-notifier/node_modules/camelcase/readme.md",
+    "website/node_modules/webpack-dev-server/node_modules/ws/README.md",
+    "website/node_modules/webpackbar/node_modules/markdown-table/readme.md",
+    "website/node_modules/copy-webpack-plugin/node_modules/slash/readme.md",
+    "website/node_modules/micromark-util-character/node_modules/micromark-util-types/readme.md",
+    "website/node_modules/renderkid/docs/images/usage.png",
+    "website/node_modules/renderkid/docs/images/display.png",
+    "website/node_modules/renderkid/docs/images/bullets-1.png",
+    "website/node_modules/@docusaurus/logger/demo.png",
+    "website/node_modules/serve-index/public/icons/page_world.png",
+    "website/node_modules/serve-index/public/icons/page_word.png",
+    "website/node_modules/serve-index/public/icons/page_white_zip.png",
+    "website/node_modules/serve-index/public/icons/page_white_wrench.png",
+    "website/node_modules/serve-index/public/icons/page_white_world.png",
+    "website/node_modules/serve-index/public/icons/page_white_word.png"
   ]
 }
