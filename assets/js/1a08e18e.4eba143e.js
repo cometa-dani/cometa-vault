@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[5778],{8715:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/cometa-vault/blog","page":1,"postsPerPage":10,"totalPages":2,"totalCount":12,"nextPage":"/cometa-vault/blog/page/2","blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

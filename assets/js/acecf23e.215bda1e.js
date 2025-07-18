@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/cometa-vault/blog","blogTitle":"Blog","authorsListPath":"/cometa-vault/blog/authors"}')}}]);
